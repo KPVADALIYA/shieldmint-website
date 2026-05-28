@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="ShieldMint">
+  <rect width="128" height="128" rx="28" fill="#0F6E56"/>
+  <path d="M64 14 104 31v31c0 27-16 43-40 52-24-9-40-25-40-52V31L64 14Z" fill="none" stroke="#9FE1CB" stroke-width="7" stroke-linejoin="round"/>
+  <path d="m42 65 15 15 32-35" fill="none" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
